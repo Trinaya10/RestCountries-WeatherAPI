@@ -1,0 +1,10 @@
+html,body{
+    
+   background: linear-gradient(45deg, rgb(148, 148, 219),rgb(130, 130, 167));
+}
+.container{
+    display: flex;
+}
+.card-deck{
+     justify-content: space-between;
+}
